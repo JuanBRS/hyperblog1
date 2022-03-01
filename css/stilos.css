@@ -1,18 +1,19 @@
 body {
-  color: burlywood;
+  color: rgb(15, 7, 34);
   text-align: left;
   font-size: 16px;
   font-family: "arial";
 }
 
-#cabecera 
+#cabecera #logo
+
 
 {
 
-  background: blue);
+  background: url( "..imagenes/capsula.jpg") no-repeat center center;
   color:white;
   margin: 0cm;
-  padding: 0,5cm;
+  padding: 0,5cm 0.5cm 3cm;
   font-weight: bold;
 
 }
